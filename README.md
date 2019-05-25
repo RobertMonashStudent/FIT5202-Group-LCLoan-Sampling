@@ -2,4 +2,5 @@
 Scala/Spark code for sampling down the large Dataset.
 
 
-Please use Loan_2017_20k for EDA and furhter cleansing.
+Please use Loan_2017_20k for EDA and further cleansing.
+can each have our own split amount of work on EDAs and then combine later.
