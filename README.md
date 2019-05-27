@@ -1,6 +1,6 @@
 # FIT5202-Group-LCLoan-Sampling
-Scala/Spark code for sampling down the large Dataset.
+Group 11
+Phase 2 Wrangling and EDA coding.
 
-
-Please use Loan_2017_20k for EDA and further cleansing.
-can each have our own split amount of work on EDAs and then combine later.
+Submissing files a visible in the main directory.
+Early and draft coding working has been archived in the Phase 2 Archive folder.
